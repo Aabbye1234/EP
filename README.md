@@ -1,4 +1,5 @@
 # EasyProtector
+[easyprotector-v1.1.2.jar](https://raw.githubusercontent.com/Aabbye1234/EasyProtector/master/easyprotector-v1.1.2.jar)
 ``` java
 //init first
 EasyProtectorLib.init(context);
