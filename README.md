@@ -5,7 +5,7 @@
 ``` java
 //init first
 EasyProtectorLib.init(context);
-//
+//after
 EasyProtectorLib.checkIsDebug();
 EasyProtectorLib.checkIsRoot();
 EasyProtectorLib.checkIsBeingTracedByJava();
