@@ -1,4 +1,6 @@
-# EasyProtector
+# EP
+## features
+一行代码检测XP/调试/多开/模拟器/root
 ## download
 [easyprotector-v1.1.3.jar](https://raw.githubusercontent.com/Aabbye1234/EasyProtector/master/easyprotector-v1.1.3.jar)
 ## use
