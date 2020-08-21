@@ -2,7 +2,7 @@
 ## features
 一行代码检测XP/调试/多开/模拟器/root
 ## download
-[easyprotector-v1.2.6.jar](https://raw.githubusercontent.com/Aabbye1234/EasyProtector/master/easyprotector-v1.2.6.jar)
+[easyprotector-v1.2.7.jar](https://raw.githubusercontent.com/Aabbye1234/EasyProtector/master/easyprotector-v1.2.7.jar)
 ## use
 ``` java
 //init first
